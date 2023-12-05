@@ -1,0 +1,15 @@
+C:\Users\Kauan\OneDrive\Área de Trabalho\JogoFutebol\bin\Debug\net7.0\JogoFutebol.exe
+C:\Users\Kauan\OneDrive\Área de Trabalho\JogoFutebol\bin\Debug\net7.0\JogoFutebol.deps.json
+C:\Users\Kauan\OneDrive\Área de Trabalho\JogoFutebol\bin\Debug\net7.0\JogoFutebol.runtimeconfig.json
+C:\Users\Kauan\OneDrive\Área de Trabalho\JogoFutebol\bin\Debug\net7.0\JogoFutebol.dll
+C:\Users\Kauan\OneDrive\Área de Trabalho\JogoFutebol\bin\Debug\net7.0\JogoFutebol.pdb
+C:\Users\Kauan\OneDrive\Área de Trabalho\JogoFutebol\obj\Debug\net7.0\JogoFutebol.csproj.AssemblyReference.cache
+C:\Users\Kauan\OneDrive\Área de Trabalho\JogoFutebol\obj\Debug\net7.0\JogoFutebol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kauan\OneDrive\Área de Trabalho\JogoFutebol\obj\Debug\net7.0\JogoFutebol.AssemblyInfoInputs.cache
+C:\Users\Kauan\OneDrive\Área de Trabalho\JogoFutebol\obj\Debug\net7.0\JogoFutebol.AssemblyInfo.cs
+C:\Users\Kauan\OneDrive\Área de Trabalho\JogoFutebol\obj\Debug\net7.0\JogoFutebol.csproj.CoreCompileInputs.cache
+C:\Users\Kauan\OneDrive\Área de Trabalho\JogoFutebol\obj\Debug\net7.0\JogoFutebol.dll
+C:\Users\Kauan\OneDrive\Área de Trabalho\JogoFutebol\obj\Debug\net7.0\refint\JogoFutebol.dll
+C:\Users\Kauan\OneDrive\Área de Trabalho\JogoFutebol\obj\Debug\net7.0\JogoFutebol.pdb
+C:\Users\Kauan\OneDrive\Área de Trabalho\JogoFutebol\obj\Debug\net7.0\JogoFutebol.genruntimeconfig.cache
+C:\Users\Kauan\OneDrive\Área de Trabalho\JogoFutebol\obj\Debug\net7.0\ref\JogoFutebol.dll
